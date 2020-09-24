@@ -18,10 +18,19 @@
     <ClCompile Include="2504.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3111.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3190.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="1918.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3111.cpp">
+    <ClCompile Include="1935.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10799.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
